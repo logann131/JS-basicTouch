@@ -1,3 +1,8 @@
+/* Nam Phu Nguyen (Logan)
+   IT 206
+   Programing Assignment
+ */ 
+
 //this code will run when the page is loaded
 window.onload = function () {
     //select my element
